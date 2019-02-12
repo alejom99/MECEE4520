@@ -74,7 +74,7 @@ below to setup your laptop.
    - On Windows: https://docs.docker.com/docker-for-windows/install/
    - On Linux: If you're using linux you'll know how to get Docker running...
 
-10. Download docanno image 
+10. Download doccano image 
 
         $ docker pull chakkiworks/doccano
     

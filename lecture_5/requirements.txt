@@ -1,0 +1,7 @@
+jupyter
+pandas
+apache-airflowjupyte
+requests
+Flask
+joblib
+scikit-learn

@@ -1,3 +1,8 @@
 jupyter
 scrapy
 mrjob
+pandas
+requests
+Flask
+joblib
+scikit-learn

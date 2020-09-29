@@ -1,6 +1,7 @@
 jupyter
 scrapy
 mrjob
+jupyter
 pandas
 requests
 Flask
